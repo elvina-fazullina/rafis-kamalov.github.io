@@ -1,5 +1,5 @@
 const SOCIAL_LINKS = {
-  telegram: 'https://t.me/santa_jackson',
+  telegram: 'https://t.me/rafiskkamalove_bot',
   instagram: 'https://www.instagram.com/santa_jackson?igsi=MXhzbGswcnd6OHBvaA%3D%3D&utm_source=qr',
   phone: 'tel:+79869119192',
 }
